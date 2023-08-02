@@ -1,0 +1,10 @@
+{
+  "simulation": "simulation.AddToCart",
+  "simulationId": "addtocart",
+  "start": 1690806249851,
+  "description": "",
+  "scenarios": ["add items to cart"],
+  "assertions": [
+
+  ]
+}
